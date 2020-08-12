@@ -1,0 +1,9 @@
+Add 2 radio buttons.
+1st radio button for cricket players.
+2nd radio button for Tennis players.
+2panels are there with 3 hyperlinks in it with the players name.
+those hyperlink will have html form and navigate the url with designer page
+1st panel is visible when 1st radio button clicked.
+2nd panel is visible when 2nd radio button clicked.
+        here this assignment named with RadioButtons.aspx.cs and RadioButton.aspx present the solution.
+Date-11/8/20
